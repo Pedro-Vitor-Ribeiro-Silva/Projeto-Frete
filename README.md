@@ -39,7 +39,7 @@ Este projeto é um aplicativo web para calcular o frete de uma encomenda com bas
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/projeto_frete.git
+   git clone https://github.com/seu-usuario/Projeto-Frete.git
    cd projeto_frete
    ```
 
